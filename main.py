@@ -11,7 +11,7 @@ CHANNEL_ID = "1358135570827710494"
 SELF_MUTE = True
 SELF_DEAF = False
 
-usertoken = "NzAzMjI2MTc4NTQxOTc3NjAw.8pT1sx--iy1VoJAwE4gqVMlpPG0"
+usertoken = "NzAzMjI2MTc4NTQxOTc3NjAw.8pT1sx--iy1VoJAwE4gqVMlpPG"
 
 headers = {"Authorization": usertoken, "Content-Type": "application/json"}
 
